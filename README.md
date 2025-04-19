@@ -68,8 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **HuggingFace Transformers** for providing the pre-trained models.
 - **PyTorch** and **TensorFlow** for deep learning frameworks.
-- The open-source community for continuous contributions and support.
 
----
-
-Let me know if you'd like to make any adjustments or add more details!
